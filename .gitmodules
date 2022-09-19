@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tomoda"]
-	path = tomoda
-	url = https://github.com/liuwd15/tomoda
-	shallow = true
-	registered = true
